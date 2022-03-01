@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineering manager at Maxcess Interational. I serve the software engineering team who are a badass team of 5 connecting all the different systems at Maxcess.
+I am a software engineering manager at Maxcess Interational. I serve the software engineering team who are a badass team connecting all the different systems at Maxcess.
 
 I'm most easily reached on Twitter at [y0mbo](https://twitter.com/y0mbo).
 <!--
