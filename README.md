@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineering manager at [Maxcess](https://maxcess.com/). I serve the software engineering team who are a badass team connecting all the different systems at Maxcess.
+I am a software engineering manager at [Maxcess](https://www.maxcessintl.com/). I serve the software engineering team who are a badass team connecting all the different systems at Maxcess.
 
 I'm most easily reached on Twitter at [y0mbo](https://twitter.com/y0mbo). Occasionally I write things at https://johnuhri.com/.
 <!--
